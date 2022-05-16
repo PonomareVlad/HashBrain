@@ -1,0 +1,21 @@
+{
+  "name": "hash-brain",
+  "version": "0.0.1",
+  "description": "Prototype of OAuth 2.0 service that uses HashBrain algorithms for authentication your brains",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonomareVlad/HashBrain.git"
+  },
+  "keywords": [
+    "Hash",
+    "Brain",
+    "OAuth"
+  ],
+  "author": "PonomareVlad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PonomareVlad/HashBrain/issues"
+  },
+  "homepage": "https://github.com/PonomareVlad/HashBrain#readme"
+}
